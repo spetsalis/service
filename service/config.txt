@@ -1,2 +1,0 @@
-Keyname;0;Service_name
-plex;0;plexmediaserver
